@@ -111,7 +111,7 @@ Podemos añadir colaboradores en nuestro proyecto desde la Configuración del Re
     ![img22](imagenes/img22.PNG)
 
 
-Como resultado de mi index.php:
+*Como resultado de mi index.php:*
 
 ![img15](imagenes/img23.PNG)
 
