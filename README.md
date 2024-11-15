@@ -5,6 +5,7 @@ PPS-Unidad0Actividad5-David
 - [Viendo los remotos](#viendo-los-remotos)
 - [Visualizando la página web](#visualizando-la-página-web)
 - [Colaborando](#colaborando)
+- [Erre que erre con Git Logs](#erre-que-erre-con-git-logs)
 
 
 
@@ -113,3 +114,24 @@ Podemos añadir colaboradores en nuestro proyecto desde la Configuración del Re
 Como resultado de mi index.php:
 
 ![img15](imagenes/img23.PNG)
+
+### Erre que erre con Git Logs
+Repasemos git logs
+1. Muestra los logs
+![img24](imagenes/img24.PNG)
+
+2. Muestra los logs de los últimos 3 commits
+
+    ![img25](imagenes/img25.PNG)
+
+3. Muestra los logs utilizando el modificador --pretty
+
+    ![img26](imagenes/img26.PNG)
+
+4. Muestra los logs de los últimos 2 commits donde se vean las diferencias de cada una de las entradas.
+
+    ![img27](imagenes/img27.PNG)
+
+5. Muestra los logs de las modificaciones realizadas en el último día
+
+![img28](imagenes/img28.PNG)
